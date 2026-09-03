@@ -206,7 +206,7 @@ void client() {
 
 
 ## OUTPUT
-
+![2](img/2.png)
 
 # RESULT:
 The program is executed successfully.
